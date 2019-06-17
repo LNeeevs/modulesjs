@@ -1,0 +1,28 @@
+{
+  "name": "modulesjs",
+  "version": "1.0.0",
+  "description": "'This topic talk more about the Modularization with JS of the TDD course\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LNeeevs/modulesjs.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "study",
+    "git"
+  ],
+  "author": "Lucas Neves <lucasneevs@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LNeeevs/modulesjs/issues"
+  },
+  "homepage": "https://github.com/LNeeevs/modulesjs#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0"
+  }
+}
